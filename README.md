@@ -8,10 +8,6 @@ A complete admin dashboard solution for meteor built off the [iron-router](https
 
 **Feedback Welcome.** Please create an issue.
 
-![alt tag](https://raw.githubusercontent.com/yogiben/meteor-admin/master/readme/screenshot1.png)
-
-![alt tag](https://raw.githubusercontent.com/yogiben/meteor-admin/master/readme/screenshot2.png)
-
 ### Getting started ###
 
 #### 0. Prerequisites####
